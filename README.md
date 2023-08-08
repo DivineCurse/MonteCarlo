@@ -15,4 +15,20 @@ The tool provides two tabs:
 ### Prerequisites
 
 Python 3.7 or higher.
+### Installing
+
+Clone the repository:
+
+```bash
+git clone https://github.com/DivineCurse/MonteCarlo.git
+
+cd MonteCarlo
+
+## Install Required Packages
+
+pip install -r requirements.txt
+
+## Running the Tool
+
+python main.py
 
