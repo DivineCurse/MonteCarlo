@@ -31,7 +31,8 @@ pip install -r requirements.txt
 ## Running the Tool
 
 python main.py
+```
 
+![Alt text](images/image1.png)
 
-![Alt text](images/image1)
-
+![Alt text](images/image2.png)
