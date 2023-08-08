@@ -32,3 +32,6 @@ pip install -r requirements.txt
 
 python main.py
 
+
+![Alt text](images/image1)
+
